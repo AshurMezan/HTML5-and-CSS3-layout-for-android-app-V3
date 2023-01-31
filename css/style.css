@@ -11,6 +11,10 @@ body {
     font-family: 'Minion Pro Regular';
 }
 
+body h3 {
+    font-family: 'Minion Pro Regular';
+}
+
 .container {
     box-shadow: 0 2px 4px gray;
     width: 60%;
