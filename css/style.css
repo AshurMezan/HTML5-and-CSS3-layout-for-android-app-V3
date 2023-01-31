@@ -367,3 +367,9 @@ a.button15:active {
     text-align: center;
     flex-direction: column;
 }
+
+/* Страница чек */
+
+.check {
+    margin: 15px;
+}
